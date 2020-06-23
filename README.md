@@ -12,4 +12,4 @@ This project involved:
 - Analyzed local and global temperature data 
 - Compared temperature trends in Tokyo and Chicago to overall global temperature trends 
 
-##### Jupyter Notebook (contains the overall project flow) 
+##### Jupyter Notebook (containing overall project flow is not posted herein) 
